@@ -6,9 +6,11 @@
 
 ![Robson Agostinho GitHub stats](https://github-readme-stats.vercel.app/api?username=agostech&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agostech)](https://github.com/agostech/github-readme-stats)
+
 ## Tecnologias que eu estudo no meu dia a dia.
 
-#### Principal - Data Science:
+### Data Science:
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -16,7 +18,7 @@
     <img aling="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 
-#### Secundário - Progamming:
+### Progamming:
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="python" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -28,3 +30,4 @@ Apaixonado por tecnologia e por como elas podem mudar nossas vidas.
 
 ## E-mail para Contato:
 - <p>robsonl.agostinho16@hotmail.com</p>
+
