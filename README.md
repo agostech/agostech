@@ -6,7 +6,8 @@
 
 ![Robson Agostinho GitHub stats](https://github-readme-stats.vercel.app/api?username=agostech&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agostech)](https://github.com/agostech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agostech)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que eu estudo no meu dia a dia.
 
