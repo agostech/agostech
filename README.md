@@ -29,4 +29,3 @@ Apaixonado por tecnologia e por como elas podem mudar nossas vidas.
 
 ## E-mail para Contato:
 - <p>robsonl.agostinho16@hotmail.com</p>
-
