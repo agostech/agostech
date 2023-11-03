@@ -17,7 +17,7 @@
     <img aling="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 
-### Progamming:
+### Web Development:
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="python" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
